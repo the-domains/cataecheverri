@@ -1,0 +1,28 @@
+name: cataecheverri
+favicon: null
+layout_spectrum: 0.8860354505013674
+typography_spectrum: 0.41291606868617237
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8818343554157764
+  lightness: 0.3404299174435437
+  saturation: 0.07982197450473905
+  rhythmicContrast: 0.22529168496839702
+purpose: []
